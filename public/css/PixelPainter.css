@@ -40,7 +40,7 @@ table {
   box-sizing: border-box; }
 
 html {
-  background-image: url('/images/brickwall_2.png'); }
+  background-image: url('../images/brickwall_2.png'); }
 
 body {
   font-size: 16px;
